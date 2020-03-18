@@ -1,0 +1,11 @@
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\obj\Debug\netcoreapp3.1\DSP Examples.csprojAssemblyReference.cache
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\obj\Debug\netcoreapp3.1\DSP Examples.AssemblyInfoInputs.cache
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\obj\Debug\netcoreapp3.1\DSP Examples.AssemblyInfo.cs
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\bin\Debug\netcoreapp3.1\DSP Examples.exe
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\bin\Debug\netcoreapp3.1\DSP Examples.deps.json
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\bin\Debug\netcoreapp3.1\DSP Examples.runtimeconfig.json
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\bin\Debug\netcoreapp3.1\DSP Examples.runtimeconfig.dev.json
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\bin\Debug\netcoreapp3.1\DSP Examples.dll
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\bin\Debug\netcoreapp3.1\DSP Examples.pdb
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\obj\Debug\netcoreapp3.1\DSP Examples.dll
+C:\Users\stchan\OneDrive - National Instruments\RF Systems\Training\RF-Digital-Signal-Processing-Techniques\DSP Examples\obj\Debug\netcoreapp3.1\DSP Examples.pdb
